@@ -29,3 +29,4 @@ App.css
 .env.*
 !.env.sample
 **/.hfc-key-store
+.hfc-key-store
