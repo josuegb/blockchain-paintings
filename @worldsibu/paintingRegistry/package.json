@@ -2,7 +2,7 @@
   "name": "paintingregistry",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/src/paintingRegistry.controller",
+  "main": "./dist/src/index.js",
   "scripts": {
     "restart": "./node_modules/@worldsibu/convector-tool-dev-env/scripts/restart.sh && npm run cc:build && npm run cc:install --",
     "start": "./node_modules/@worldsibu/convector-tool-dev-env/scripts/start.sh && npm run cc:build && npm run cc:upgrade --",

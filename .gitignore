@@ -14,19 +14,6 @@
 # misc
 .DS_Store
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
@@ -41,3 +28,4 @@ App.css
 
 .env.*
 !.env.sample
+**/.hfc-key-store
